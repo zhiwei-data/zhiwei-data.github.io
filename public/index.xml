@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2026 09:02:23 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/docs/test/</link>
+      <pubDate>Mon, 04 May 2026 09:02:23 -0400</pubDate>
+      <guid>//localhost:1313/docs/test/</guid>
+      <description>&lt;h1 id=&#34;读书笔记---全球猎身&#34;&gt;读书笔记 - 全球猎身&lt;/h1&gt;
+&lt;p&gt;项飙选择去研究印度的IT移民，是因为这是他力所能及范围内，能找到的最不熟悉、距离最远的研究对象。某种人类学的传统：“直面不同、文化震撼、大彻大悟”(p.37)。他大概不会想到，后来的二十年间，他的许多同胞会在世界各地遭遇他的研究对象相似的困境，并在他们身上辨认出太多自身与周遭生活的影子。&lt;/p&gt;
+&lt;p&gt;黑手党可能会去电影院看「教父」，但民族志的对象很少有机会去读关于自己的研究。所以身为一位人在北美的外籍技术劳工，读这本书确实是种难得的体验：既可以透过一位学者的视角，从全球移民的流动中看到背后的结构性因素，又能在田野记录里的个体经验中看到自身（堪称买一送一？）。&lt;/p&gt;
+&lt;h2 id=&#34;作为研究著作的全球猎身&#34;&gt;作为研究著作的「全球猎身」&lt;/h2&gt;
+&lt;p&gt;人类学著作常令人生畏。即使出于对题材的兴趣咬着牙翻开一本，阅读过程中也难免充满疑惑：为什么有这么多的细节？作者到底想讲什么？这些理论术语是什么意思？「全球猎身」这本书令人耳目一新的地方是它的清晰。零散在&lt;/p&gt;
+&lt;p&gt;政治经济学的&lt;/p&gt;
+&lt;p&gt;去文化本质的&lt;/p&gt;
+&lt;p&gt;作为人类学著作，这本书让人耳目一新的地方是它的清晰。&lt;/p&gt;
+&lt;p&gt;「大问题」&lt;/p&gt;
+&lt;p&gt;两篇序言更是&lt;/p&gt;
+&lt;p&gt;人类学家&lt;/p&gt;
+&lt;p&gt;理论化&lt;/p&gt;
+&lt;p&gt;中国社会科学该往何处去&lt;/p&gt;
+&lt;p&gt;清晰、自信。&lt;/p&gt;
+&lt;p&gt;缺陷&lt;/p&gt;
+&lt;h2 id=&#34;作为纪实文学的全球猎身&#34;&gt;作为纪实文学的「全球猎身」&lt;/h2&gt;
+&lt;p&gt;更多细节&lt;/p&gt;
+&lt;p&gt;前现代的&lt;/p&gt;
+&lt;h2 id=&#34;actionable-insights&#34;&gt;Actionable Insights???&lt;/h2&gt;
+&lt;p&gt;前现代的patron-client relationship&lt;/p&gt;
+&lt;p&gt;遇事不决问项飙&lt;/p&gt;
+&lt;p&gt;原子化社会 浮萍&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
